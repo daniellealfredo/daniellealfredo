@@ -23,4 +23,4 @@ Here are some ideas to get you started: -->
 <a href="https://www.linkedin.com/in/daniellealfredo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellealfredo&show_icons=true&theme=dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellealfredo&show_icons=true&theme=dark) <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="200" />
