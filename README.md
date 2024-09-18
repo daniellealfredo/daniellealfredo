@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=62F785&background=95AEFF00&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
- My name is Danielle, I'm brazilian Agronomic Engeering student who loves operating systems and programming languages inside the agrarian sciences and my nickname is *daniellealfredo*! <img scr="https://partyparrotasaservice.vercel.app/api/partyparrot" width="30" height="30" />
+ My name is Danielle, I'm brazilian Agronomic Engeering student who loves operating systems and programming languages inside the agrarian sciences and my nickname is *daniellealfredo*!  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="45" height="45"/>
 
 <!--
 **daniellealfredo/daniellealfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
