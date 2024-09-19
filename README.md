@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=62F785&background=95AEFF00&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=62F785&background=95AEFF00&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github+profile.)](https://git.io/typing-svg)  ![trator](gif.gif)
+
  My name is Danielle, I'm brazilian Agronomic Engeering student who loves operating systems and programming languages inside the agrarian sciences and my nickname is *daniellealfredo*!  <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" width="45" height="45"/>
 
 <!--
@@ -25,4 +26,3 @@ Here are some ideas to get you started: -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellealfredo&show_icons=true&theme=dark) <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="200" />
 
-<img scr="giphy.gif" width="20" />
