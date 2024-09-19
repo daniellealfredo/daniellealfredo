@@ -24,3 +24,5 @@ Here are some ideas to get you started: -->
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellealfredo&show_icons=true&theme=dark) <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="200" />
+
+<img scr="giphy.gif" width="20" />
